@@ -8,7 +8,7 @@ namespace Zi.Common.Enumerator
 {
     public enum BillStatus
     {
-        Paid,
         UnPay,
+        Paid,
     }
 }
