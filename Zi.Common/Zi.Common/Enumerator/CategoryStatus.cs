@@ -8,7 +8,13 @@ namespace Zi.Common.Enumerator
 {
     public enum CategoryStatus
     {
+        /// <summary>
+        /// NotAvailable for category doesn't exist
+        /// </summary>
         NotAvailable,
+        /// <summary>
+        /// Available for category exist
+        /// </summary>
         Available,
     }
 
