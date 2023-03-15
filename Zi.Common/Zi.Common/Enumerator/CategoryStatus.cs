@@ -15,7 +15,7 @@ namespace Zi.Common.Enumerator
         /// <summary>
         /// Available for category exist
         /// </summary>
-        Available,
+        Available
     }
 
     

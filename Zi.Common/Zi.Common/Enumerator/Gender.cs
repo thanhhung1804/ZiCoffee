@@ -19,6 +19,6 @@ namespace Zi.Common.Enumerator
         /// <summary>
         /// Other for all of Gender
         /// </summary>
-        Other,
+        Other
     }
 }

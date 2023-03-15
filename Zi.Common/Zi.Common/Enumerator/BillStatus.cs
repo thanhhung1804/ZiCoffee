@@ -15,6 +15,6 @@ namespace Zi.Common.Enumerator
         /// <summary>
         /// Paid for paid invoice
         /// </summary>
-        Paid,
+        Paid
     }
 }

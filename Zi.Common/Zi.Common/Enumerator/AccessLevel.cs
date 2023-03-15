@@ -35,6 +35,6 @@ namespace Zi.Common.Enumerator
         /// <summary>
         /// Basic for the smallest access level 
         /// </summary>
-        Basic,
+        Basic
     }
 }
