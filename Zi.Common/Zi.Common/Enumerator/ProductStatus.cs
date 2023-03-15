@@ -8,7 +8,13 @@ namespace Zi.Common.Enumerator
 {
     public enum ProductStatus
     {
-        Notavailable,
+        /// <summary>
+        /// NotAvailable for the product don't exist
+        /// </summary>
+        NotAvailable,
+        /// <summary>
+        /// NotAvailable for the product exist
+        /// </summary>
         Available
     }
 }
