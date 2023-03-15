@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Enumerator\BillStatus.cs" />
     <Compile Include="Enumerator\CategoryStatus.cs" />
+    <Compile Include="Enumerator\AccessLevel.cs" />
     <Compile Include="Enumerator\Gender.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
