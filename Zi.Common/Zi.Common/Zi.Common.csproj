@@ -49,6 +49,8 @@
     <Compile Include="Enumerator\BillStatus.cs" />
     <Compile Include="Enumerator\CategoryStatus.cs" />
     <Compile Include="Enumerator\AccessLevel.cs" />
+    <Compile Include="Enumerator\TableStatus.cs" />
+    <Compile Include="Enumerator\PromotionType.cs" />
     <Compile Include="Enumerator\PromotionPercent.cs" />
     <Compile Include="Enumerator\PromotionAutoApply.cs" />
     <Compile Include="Enumerator\PromotionActived.cs" />
